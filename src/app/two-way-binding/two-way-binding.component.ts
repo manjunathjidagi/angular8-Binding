@@ -13,7 +13,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TwoWayBindingComponent implements OnInit {
 
-  public name="Heeeee"
+  public name=""
 
   constructor() { }
 
